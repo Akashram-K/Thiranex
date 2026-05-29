@@ -17,7 +17,7 @@ void display(vector<vector<char>>&choice)
         cout<<endl;
         if(i<2)
         {
-            cout<<"---|---|---"<<endl;
+            cout<<"----|---|----"<<endl;
         }
     }
 }
